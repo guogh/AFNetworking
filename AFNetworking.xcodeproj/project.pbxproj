@@ -199,6 +199,8 @@
 		5F4323DF1BF63CCC003B8749 /* GeoTrust_Global_CA_Root.cer in Resources */ = {isa = PBXBuildFile; fileRef = 5F4323DC1BF63CCC003B8749 /* GeoTrust_Global_CA_Root.cer */; };
 		DA5417871CF7E44800D51A76 /* gittset.h in Headers */ = {isa = PBXBuildFile; fileRef = DA5417851CF7E44800D51A76 /* gittset.h */; };
 		DA5417881CF7E44800D51A76 /* gittset.m in Sources */ = {isa = PBXBuildFile; fileRef = DA5417861CF7E44800D51A76 /* gittset.m */; };
+		DA54179F1CF7F15600D51A76 /* 66666.h in Headers */ = {isa = PBXBuildFile; fileRef = DA54179D1CF7F15600D51A76 /* 66666.h */; };
+		DA5417A01CF7F15600D51A76 /* 66666.m in Sources */ = {isa = PBXBuildFile; fileRef = DA54179E1CF7F15600D51A76 /* 66666.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -309,6 +311,8 @@
 		5F4323DC1BF63CCC003B8749 /* GeoTrust_Global_CA_Root.cer */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = GeoTrust_Global_CA_Root.cer; sourceTree = "<group>"; };
 		DA5417851CF7E44800D51A76 /* gittset.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = gittset.h; sourceTree = "<group>"; };
 		DA5417861CF7E44800D51A76 /* gittset.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = gittset.m; sourceTree = "<group>"; };
+		DA54179D1CF7F15600D51A76 /* 66666.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = 66666.h; sourceTree = "<group>"; };
+		DA54179E1CF7F15600D51A76 /* 66666.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = 66666.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -519,6 +523,8 @@
 				299522521BBF125A00859F49 /* AFURLSessionManager.m */,
 				DA5417851CF7E44800D51A76 /* gittset.h */,
 				DA5417861CF7E44800D51A76 /* gittset.m */,
+				DA54179D1CF7F15600D51A76 /* 66666.h */,
+				DA54179E1CF7F15600D51A76 /* 66666.m */,
 			);
 			path = AFNetworking;
 			sourceTree = "<group>";
@@ -597,7 +603,6 @@
 				299522A81BBF13C700859F49 /* UIImage+AFNetworking.h in Headers */,
 				299522531BBF125A00859F49 /* AFHTTPSessionManager.h in Headers */,
 				2995229C1BBF13C700859F49 /* AFAutoPurgingImageCache.h in Headers */,
-				DA54178F1CF7E73E00D51A76 /* test.h in Headers */,
 				299522581BBF125A00859F49 /* AFSecurityPolicy.h in Headers */,
 				299522561BBF125A00859F49 /* AFNetworkReachabilityManager.h in Headers */,
 				299522A91BBF13C700859F49 /* UIImageView+AFNetworking.h in Headers */,
@@ -605,6 +610,7 @@
 				2995225E1BBF125A00859F49 /* AFURLSessionManager.h in Headers */,
 				2995225C1BBF125A00859F49 /* AFURLResponseSerialization.h in Headers */,
 				299522A21BBF13C700859F49 /* UIActivityIndicatorView+AFNetworking.h in Headers */,
+				DA54179F1CF7F15600D51A76 /* 66666.h in Headers */,
 				2995223D1BBF104D00859F49 /* AFNetworking.h in Headers */,
 				299522B01BBF13C700859F49 /* UIWebView+AFNetworking.h in Headers */,
 				299522AC1BBF13C700859F49 /* UIProgressView+AFNetworking.h in Headers */,
@@ -1028,9 +1034,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				299522AD1BBF13C700859F49 /* UIProgressView+AFNetworking.m in Sources */,
-				DA5417901CF7E73E00D51A76 /* test.m in Sources */,
 				299522571BBF125A00859F49 /* AFNetworkReachabilityManager.m in Sources */,
 				299522AF1BBF13C700859F49 /* UIRefreshControl+AFNetworking.m in Sources */,
+				DA5417A01CF7F15600D51A76 /* 66666.m in Sources */,
 				299522AA1BBF13C700859F49 /* UIImageView+AFNetworking.m in Sources */,
 				299522B11BBF13C700859F49 /* UIWebView+AFNetworking.m in Sources */,
 				299522591BBF125A00859F49 /* AFSecurityPolicy.m in Sources */,
