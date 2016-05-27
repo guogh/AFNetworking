@@ -201,6 +201,8 @@
 		DA5417881CF7E44800D51A76 /* gittset.m in Sources */ = {isa = PBXBuildFile; fileRef = DA5417861CF7E44800D51A76 /* gittset.m */; };
 		DA54178F1CF7E73E00D51A76 /* test.h in Headers */ = {isa = PBXBuildFile; fileRef = DA54178D1CF7E73E00D51A76 /* test.h */; };
 		DA5417901CF7E73E00D51A76 /* test.m in Sources */ = {isa = PBXBuildFile; fileRef = DA54178E1CF7E73E00D51A76 /* test.m */; };
+		DA5417931CF7EA7400D51A76 /* 测试哦.h in Headers */ = {isa = PBXBuildFile; fileRef = DA5417911CF7EA7400D51A76 /* 测试哦.h */; };
+		DA5417941CF7EA7400D51A76 /* 测试哦.m in Sources */ = {isa = PBXBuildFile; fileRef = DA5417921CF7EA7400D51A76 /* 测试哦.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -313,6 +315,8 @@
 		DA5417861CF7E44800D51A76 /* gittset.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = gittset.m; sourceTree = "<group>"; };
 		DA54178D1CF7E73E00D51A76 /* test.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = test.h; sourceTree = "<group>"; };
 		DA54178E1CF7E73E00D51A76 /* test.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = test.m; sourceTree = "<group>"; };
+		DA5417911CF7EA7400D51A76 /* 测试哦.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "测试哦.h"; sourceTree = "<group>"; };
+		DA5417921CF7EA7400D51A76 /* 测试哦.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "测试哦.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -525,6 +529,8 @@
 				DA5417861CF7E44800D51A76 /* gittset.m */,
 				DA54178D1CF7E73E00D51A76 /* test.h */,
 				DA54178E1CF7E73E00D51A76 /* test.m */,
+				DA5417911CF7EA7400D51A76 /* 测试哦.h */,
+				DA5417921CF7EA7400D51A76 /* 测试哦.m */,
 			);
 			path = AFNetworking;
 			sourceTree = "<group>";
@@ -599,6 +605,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2995225A1BBF125A00859F49 /* AFURLRequestSerialization.h in Headers */,
+				DA5417931CF7EA7400D51A76 /* 测试哦.h in Headers */,
 				DA5417871CF7E44800D51A76 /* gittset.h in Headers */,
 				299522A81BBF13C700859F49 /* UIImage+AFNetworking.h in Headers */,
 				299522531BBF125A00859F49 /* AFHTTPSessionManager.h in Headers */,
@@ -1039,6 +1046,7 @@
 				299522AF1BBF13C700859F49 /* UIRefreshControl+AFNetworking.m in Sources */,
 				299522AA1BBF13C700859F49 /* UIImageView+AFNetworking.m in Sources */,
 				299522B11BBF13C700859F49 /* UIWebView+AFNetworking.m in Sources */,
+				DA5417941CF7EA7400D51A76 /* 测试哦.m in Sources */,
 				299522591BBF125A00859F49 /* AFSecurityPolicy.m in Sources */,
 				299522A71BBF13C700859F49 /* UIButton+AFNetworking.m in Sources */,
 				299522541BBF125A00859F49 /* AFHTTPSessionManager.m in Sources */,
