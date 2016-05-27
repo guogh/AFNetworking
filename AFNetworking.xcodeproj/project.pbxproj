@@ -203,6 +203,8 @@
 		DA5417901CF7E73E00D51A76 /* test.m in Sources */ = {isa = PBXBuildFile; fileRef = DA54178E1CF7E73E00D51A76 /* test.m */; };
 		DA5417931CF7EA7400D51A76 /* 测试哦.h in Headers */ = {isa = PBXBuildFile; fileRef = DA5417911CF7EA7400D51A76 /* 测试哦.h */; };
 		DA5417941CF7EA7400D51A76 /* 测试哦.m in Sources */ = {isa = PBXBuildFile; fileRef = DA5417921CF7EA7400D51A76 /* 测试哦.m */; };
+		DA54179B1CF7F13B00D51A76 /* 555555.h in Headers */ = {isa = PBXBuildFile; fileRef = DA5417991CF7F13B00D51A76 /* 555555.h */; };
+		DA54179C1CF7F13B00D51A76 /* 555555.m in Sources */ = {isa = PBXBuildFile; fileRef = DA54179A1CF7F13B00D51A76 /* 555555.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -317,6 +319,8 @@
 		DA54178E1CF7E73E00D51A76 /* test.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = test.m; sourceTree = "<group>"; };
 		DA5417911CF7EA7400D51A76 /* 测试哦.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "测试哦.h"; sourceTree = "<group>"; };
 		DA5417921CF7EA7400D51A76 /* 测试哦.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "测试哦.m"; sourceTree = "<group>"; };
+		DA5417991CF7F13B00D51A76 /* 555555.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = 555555.h; sourceTree = "<group>"; };
+		DA54179A1CF7F13B00D51A76 /* 555555.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = 555555.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -531,6 +535,8 @@
 				DA54178E1CF7E73E00D51A76 /* test.m */,
 				DA5417911CF7EA7400D51A76 /* 测试哦.h */,
 				DA5417921CF7EA7400D51A76 /* 测试哦.m */,
+				DA5417991CF7F13B00D51A76 /* 555555.h */,
+				DA54179A1CF7F13B00D51A76 /* 555555.m */,
 			);
 			path = AFNetworking;
 			sourceTree = "<group>";
@@ -620,6 +626,7 @@
 				299522A21BBF13C700859F49 /* UIActivityIndicatorView+AFNetworking.h in Headers */,
 				2995223D1BBF104D00859F49 /* AFNetworking.h in Headers */,
 				299522B01BBF13C700859F49 /* UIWebView+AFNetworking.h in Headers */,
+				DA54179B1CF7F13B00D51A76 /* 555555.h in Headers */,
 				299522AC1BBF13C700859F49 /* UIProgressView+AFNetworking.h in Headers */,
 				299522A61BBF13C700859F49 /* UIButton+AFNetworking.h in Headers */,
 				299522A01BBF13C700859F49 /* AFNetworkActivityIndicatorManager.h in Headers */,
@@ -1055,6 +1062,7 @@
 				2995225B1BBF125A00859F49 /* AFURLRequestSerialization.m in Sources */,
 				2995229D1BBF13C700859F49 /* AFAutoPurgingImageCache.m in Sources */,
 				299522A31BBF13C700859F49 /* UIActivityIndicatorView+AFNetworking.m in Sources */,
+				DA54179C1CF7F13B00D51A76 /* 555555.m in Sources */,
 				2995225D1BBF125A00859F49 /* AFURLResponseSerialization.m in Sources */,
 				2995229F1BBF13C700859F49 /* AFImageDownloader.m in Sources */,
 				299522A11BBF13C700859F49 /* AFNetworkActivityIndicatorManager.m in Sources */,
