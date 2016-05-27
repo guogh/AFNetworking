@@ -9,5 +9,27 @@
 #import "555555.h"
 
 @implementation _55555
-
+LDBL_DIGf
+- (NSString *)description
+{
+    return [NSString stringWithFormat:@"df
+            df
+            df
+            df
+            df
+            df
+            df
+            df
+            df
+            df
+            df
+            df
+            df
+            df
+            df
+            df
+            df
+            df
+            ", <#arguments#>];
+}
 @end
