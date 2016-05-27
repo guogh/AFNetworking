@@ -10,4 +10,15 @@
 
 @implementation _55555
 
+- (NSString *)description2
+{
+    return nil;
+}
+
+
+
+- (NSString *)description3
+{
+    return nil;
+}
 @end

@@ -205,6 +205,8 @@
 		DA5417941CF7EA7400D51A76 /* 测试哦.m in Sources */ = {isa = PBXBuildFile; fileRef = DA5417921CF7EA7400D51A76 /* 测试哦.m */; };
 		DA54179B1CF7F13B00D51A76 /* 555555.h in Headers */ = {isa = PBXBuildFile; fileRef = DA5417991CF7F13B00D51A76 /* 555555.h */; };
 		DA54179C1CF7F13B00D51A76 /* 555555.m in Sources */ = {isa = PBXBuildFile; fileRef = DA54179A1CF7F13B00D51A76 /* 555555.m */; };
+		DA54179F1CF7F15600D51A76 /* 66666.h in Headers */ = {isa = PBXBuildFile; fileRef = DA54179D1CF7F15600D51A76 /* 66666.h */; };
+		DA5417A01CF7F15600D51A76 /* 66666.m in Sources */ = {isa = PBXBuildFile; fileRef = DA54179E1CF7F15600D51A76 /* 66666.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -321,6 +323,8 @@
 		DA5417921CF7EA7400D51A76 /* 测试哦.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "测试哦.m"; sourceTree = "<group>"; };
 		DA5417991CF7F13B00D51A76 /* 555555.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = 555555.h; sourceTree = "<group>"; };
 		DA54179A1CF7F13B00D51A76 /* 555555.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = 555555.m; sourceTree = "<group>"; };
+		DA54179D1CF7F15600D51A76 /* 66666.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = 66666.h; sourceTree = "<group>"; };
+		DA54179E1CF7F15600D51A76 /* 66666.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = 66666.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -537,6 +541,8 @@
 				DA5417921CF7EA7400D51A76 /* 测试哦.m */,
 				DA5417991CF7F13B00D51A76 /* 555555.h */,
 				DA54179A1CF7F13B00D51A76 /* 555555.m */,
+				DA54179D1CF7F15600D51A76 /* 66666.h */,
+				DA54179E1CF7F15600D51A76 /* 66666.m */,
 			);
 			path = AFNetworking;
 			sourceTree = "<group>";
